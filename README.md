@@ -17,3 +17,15 @@
   -v, --version              qi version
 
 ```
+
+# 功能一览
+## 指标信息
+|   /  | cpu | mem | cpu time | call tree |
+|  :-: | :-: | :-: | :-: | :-: |
+| Java | ✅  | ✅  | ✅ | ✅ |
+
+## 支持的系统
+目前仅支持x86_64操作系统
+|   /  | MacOS | Linux | Windows |
+|  :-: | :-: | :-: | :-: |
+| Java | ✅  | ✅  | ✅ |
