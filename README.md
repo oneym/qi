@@ -23,9 +23,17 @@
 |   /  | cpu | mem | cpu time | call tree |
 |  :-: | :-: | :-: | :-: | :-: |
 | Java | ✅  | ✅  | ✅ | ✅ |
+|Golang| ✅  | ✅  | ❎ | ❎ |
 
 ## 支持的系统
 目前仅支持x86_64操作系统
 |   /  | MacOS | Linux | Windows |
 |  :-: | :-: | :-: | :-: |
 | Java | ✅  | ✅  | ✅ |
+|Golang| ✅  | ❎  | ❎ |
+
+## 测试情况
+|   /  | MacOS | Linux | Windows |
+|  :-: | :-: | :-: | :-: |
+| Java | ✅  | ❎  | ❎ |
+|Golang| ✅  | ❎  | ❎ |
