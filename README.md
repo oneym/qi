@@ -20,10 +20,10 @@
 
 # 功能一览
 ## 指标信息
-|   /  | cpu | mem | cpu time | call tree |
+|   /  | cpu | mem | net | cpu time | call tree |
 |  :-: | :-: | :-: | :-: | :-: |
-| Java | ✅  | ✅  | ✅ | ✅ |
-|Golang| ✅  | ✅  | ❎ | ❎ |
+| Java | ✅  | ✅  | ✅ | ✅ | ✅ |
+|Golang| ✅  | ✅  | ✅ | ❎ | ❎ |
 
 ## 支持的系统
 目前仅支持x86_64操作系统
