@@ -35,5 +35,5 @@
 ## 测试情况
 |   /  | MacOS | Linux | Windows |
 |  :-: | :-: | :-: | :-: |
-| Java | ✅  | ❎  | ❎ |
+| Java | ✅  | ❎  | ✅ |
 |Golang| ✅  | ❎  | ❎ |
